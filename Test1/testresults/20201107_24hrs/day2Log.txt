@@ -1,0 +1,1125 @@
+08-11-2020, 00:05:17
+Publishing to GCP (ID 71) : 
+{"temp": 23.0, "rh": 49, "lux": 220, "co2": 261, "spl": 25.83, "date": "2020-11-08", "time": "00:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 00:05:17
+Publish to GCP (ID 71) successful
+
+08-11-2020, 00:15:17
+Publishing to GCP (ID 72) : 
+{"temp": 22.82, "rh": 47, "lux": 189, "co2": 250, "spl": 26.72, "date": "2020-11-08", "time": "00:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 00:15:18
+Publish to GCP (ID 72) successful
+
+08-11-2020, 00:24:50
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 00:24:51
+Trying to connect to GCP
+
+08-11-2020, 00:25:01
+Cannot connect to GCP MQTT
+
+08-11-2020, 00:25:01
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 73
+
+08-11-2020, 00:25:01
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 74
+
+08-11-2020, 00:25:04
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 75
+
+08-11-2020, 00:25:05
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 00:25:05
+Publish to GCP (ID 74) successful
+
+08-11-2020, 00:25:17
+Publishing to GCP (ID 76) : 
+{"temp": 23.08, "rh": 50, "lux": 196, "co2": 318, "spl": 23.57, "date": "2020-11-08", "time": "00:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 00:25:17
+Publish to GCP (ID 76) successful
+
+08-11-2020, 00:35:17
+Publishing to GCP (ID 77) : 
+{"temp": 22.97, "rh": 52, "lux": 165, "co2": 252, "spl": 26.05, "date": "2020-11-08", "time": "00:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 00:35:17
+Publish to GCP (ID 77) successful
+
+08-11-2020, 00:45:17
+Publishing to GCP (ID 78) : 
+{"temp": 22.97, "rh": 49, "lux": 227, "co2": 337, "spl": 26.05, "date": "2020-11-08", "time": "00:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 00:45:17
+Publish to GCP (ID 78) successful
+
+08-11-2020, 00:55:17
+Publishing to GCP (ID 79) : 
+{"temp": 23.37, "rh": 49, "lux": 185, "co2": 245, "spl": 28.53, "date": "2020-11-08", "time": "00:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 00:55:17
+Publish to GCP (ID 79) successful
+
+08-11-2020, 01:05:17
+Publishing to GCP (ID 80) : 
+{"temp": 23.22, "rh": 53, "lux": 192, "co2": 230, "spl": 24.18, "date": "2020-11-08", "time": "01:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 01:05:17
+Publish to GCP (ID 80) successful
+
+08-11-2020, 01:15:17
+Publishing to GCP (ID 81) : 
+{"temp": 23.08, "rh": 49, "lux": 196, "co2": 275, "spl": 25.99, "date": "2020-11-08", "time": "01:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 01:15:17
+Publish to GCP (ID 81) successful
+
+08-11-2020, 01:25:17
+Publishing to GCP (ID 82) : 
+{"temp": 23.2, "rh": 54, "lux": 173, "co2": 287, "spl": 24.36, "date": "2020-11-08", "time": "01:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 01:25:18
+Publish to GCP (ID 82) successful
+
+08-11-2020, 01:34:49
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 01:34:50
+Trying to connect to GCP
+
+08-11-2020, 01:35:00
+Cannot connect to GCP MQTT
+
+08-11-2020, 01:35:00
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 83
+
+08-11-2020, 01:35:00
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 84
+
+08-11-2020, 01:35:03
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 85
+
+08-11-2020, 01:35:04
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 01:35:04
+Publish to GCP (ID 84) successful
+
+08-11-2020, 01:35:17
+Publishing to GCP (ID 86) : 
+{"temp": 23.19, "rh": 53, "lux": 184, "co2": 230, "spl": 25.02, "date": "2020-11-08", "time": "01:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 01:35:17
+Publish to GCP (ID 86) successful
+
+08-11-2020, 01:45:17
+Publishing to GCP (ID 87) : 
+{"temp": 23.61, "rh": 53, "lux": 238, "co2": 249, "spl": 26.59, "date": "2020-11-08", "time": "01:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 01:45:17
+Publish to GCP (ID 87) successful
+
+08-11-2020, 01:55:17
+Publishing to GCP (ID 88) : 
+{"temp": 23.19, "rh": 48, "lux": 185, "co2": 295, "spl": 25.71, "date": "2020-11-08", "time": "01:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 01:55:17
+Publish to GCP (ID 88) successful
+
+08-11-2020, 02:05:17
+Publishing to GCP (ID 89) : 
+{"temp": 23.65, "rh": 53, "lux": 193, "co2": 247, "spl": 25.56, "date": "2020-11-08", "time": "02:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 02:05:17
+Publish to GCP (ID 89) successful
+
+08-11-2020, 02:15:17
+Publishing to GCP (ID 90) : 
+{"temp": 23.7, "rh": 54, "lux": 225, "co2": 357, "spl": 25.33, "date": "2020-11-08", "time": "02:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 02:15:17
+Publish to GCP (ID 90) successful
+
+08-11-2020, 02:25:17
+Publishing to GCP (ID 91) : 
+{"temp": 23.63, "rh": 55, "lux": 225, "co2": 292, "spl": 28.18, "date": "2020-11-08", "time": "02:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 02:25:17
+Publish to GCP (ID 91) successful
+
+08-11-2020, 02:35:17
+Publishing to GCP (ID 92) : 
+{"temp": 23.84, "rh": 54, "lux": 235, "co2": 235, "spl": 28.41, "date": "2020-11-08", "time": "02:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 02:35:17
+Publish to GCP (ID 92) successful
+
+08-11-2020, 02:44:48
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 02:44:49
+Trying to connect to GCP
+
+08-11-2020, 02:44:59
+Cannot connect to GCP MQTT
+
+08-11-2020, 02:44:59
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 93
+
+08-11-2020, 02:44:59
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 94
+
+08-11-2020, 02:45:02
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 95
+
+08-11-2020, 02:45:03
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 02:45:03
+Publish to GCP (ID 94) successful
+
+08-11-2020, 02:45:17
+Publishing to GCP (ID 96) : 
+{"temp": 23.84, "rh": 53, "lux": 214, "co2": 234, "spl": 22.33, "date": "2020-11-08", "time": "02:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 02:45:17
+Publish to GCP (ID 96) successful
+
+08-11-2020, 02:55:17
+Publishing to GCP (ID 97) : 
+{"temp": 24.19, "rh": 56, "lux": 231, "co2": 338, "spl": 28.32, "date": "2020-11-08", "time": "02:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 02:55:17
+Publish to GCP (ID 97) successful
+
+08-11-2020, 03:05:17
+Publishing to GCP (ID 98) : 
+{"temp": 24.24, "rh": 52, "lux": 242, "co2": 240, "spl": 30.15, "date": "2020-11-08", "time": "03:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 03:05:17
+Publish to GCP (ID 98) successful
+
+08-11-2020, 03:15:17
+Publishing to GCP (ID 99) : 
+{"temp": 24.35, "rh": 56, "lux": 213, "co2": 331, "spl": 25.9, "date": "2020-11-08", "time": "03:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 03:15:17
+Publish to GCP (ID 99) successful
+
+08-11-2020, 03:25:17
+Publishing to GCP (ID 100) : 
+{"temp": 24.13, "rh": 56, "lux": 215, "co2": 277, "spl": 27.65, "date": "2020-11-08", "time": "03:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 03:25:17
+Publish to GCP (ID 100) successful
+
+08-11-2020, 03:35:17
+Publishing to GCP (ID 101) : 
+{"temp": 24.76, "rh": 55, "lux": 224, "co2": 219, "spl": 29.3, "date": "2020-11-08", "time": "03:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 03:35:17
+Publish to GCP (ID 101) successful
+
+08-11-2020, 03:45:17
+Publishing to GCP (ID 102) : 
+{"temp": 24.46, "rh": 56, "lux": 213, "co2": 304, "spl": 27.77, "date": "2020-11-08", "time": "03:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 03:45:17
+Publish to GCP (ID 102) successful
+
+08-11-2020, 03:54:47
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 03:54:48
+Trying to connect to GCP
+
+08-11-2020, 03:54:58
+Cannot connect to GCP MQTT
+
+08-11-2020, 03:54:58
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 103
+
+08-11-2020, 03:54:58
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 104
+
+08-11-2020, 03:55:01
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 105
+
+08-11-2020, 03:55:02
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 03:55:02
+Publish to GCP (ID 104) successful
+
+08-11-2020, 03:55:17
+Publishing to GCP (ID 106) : 
+{"temp": 24.57, "rh": 57, "lux": 227, "co2": 349, "spl": 29.63, "date": "2020-11-08", "time": "03:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 03:55:17
+Publish to GCP (ID 106) successful
+
+08-11-2020, 04:05:17
+Publishing to GCP (ID 107) : 
+{"temp": 24.59, "rh": 58, "lux": 211, "co2": 333, "spl": 27.99, "date": "2020-11-08", "time": "04:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 04:05:18
+Publish to GCP (ID 107) successful
+
+08-11-2020, 04:15:17
+Publishing to GCP (ID 108) : 
+{"temp": 25.27, "rh": 59, "lux": 226, "co2": 363, "spl": 31.56, "date": "2020-11-08", "time": "04:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 04:15:17
+Publish to GCP (ID 108) successful
+
+08-11-2020, 04:25:17
+Publishing to GCP (ID 109) : 
+{"temp": 25.31, "rh": 61, "lux": 212, "co2": 386, "spl": 32.12, "date": "2020-11-08", "time": "04:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 04:25:17
+Publish to GCP (ID 109) successful
+
+08-11-2020, 04:35:17
+Publishing to GCP (ID 110) : 
+{"temp": 25.22, "rh": 58, "lux": 232, "co2": 350, "spl": 32.41, "date": "2020-11-08", "time": "04:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 04:35:17
+Publish to GCP (ID 110) successful
+
+08-11-2020, 04:45:17
+Publishing to GCP (ID 111) : 
+{"temp": 25.42, "rh": 63, "lux": 234, "co2": 360, "spl": 29.65, "date": "2020-11-08", "time": "04:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 04:45:17
+Publish to GCP (ID 111) successful
+
+08-11-2020, 04:55:17
+Publishing to GCP (ID 112) : 
+{"temp": 25.63, "rh": 63, "lux": 244, "co2": 334, "spl": 31.73, "date": "2020-11-08", "time": "04:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 04:55:17
+Publish to GCP (ID 112) successful
+
+08-11-2020, 05:04:46
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 05:04:47
+Trying to connect to GCP
+
+08-11-2020, 05:04:57
+Cannot connect to GCP MQTT
+
+08-11-2020, 05:04:57
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 113
+
+08-11-2020, 05:04:57
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 114
+
+08-11-2020, 05:05:00
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 115
+
+08-11-2020, 05:05:01
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 05:05:01
+Publish to GCP (ID 114) successful
+
+08-11-2020, 05:05:17
+Publishing to GCP (ID 116) : 
+{"temp": 25.73, "rh": 60, "lux": 226, "co2": 427, "spl": 30.0, "date": "2020-11-08", "time": "05:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 05:05:17
+Publish to GCP (ID 116) successful
+
+08-11-2020, 05:15:17
+Publishing to GCP (ID 117) : 
+{"temp": 25.57, "rh": 61, "lux": 256, "co2": 377, "spl": 30.03, "date": "2020-11-08", "time": "05:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 05:15:18
+Publish to GCP (ID 117) successful
+
+08-11-2020, 05:25:17
+Publishing to GCP (ID 118) : 
+{"temp": 25.91, "rh": 62, "lux": 237, "co2": 369, "spl": 35.1, "date": "2020-11-08", "time": "05:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 05:25:17
+Publish to GCP (ID 118) successful
+
+08-11-2020, 05:35:17
+Publishing to GCP (ID 119) : 
+{"temp": 26.26, "rh": 67, "lux": 238, "co2": 323, "spl": 32.0, "date": "2020-11-08", "time": "05:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 05:35:17
+Publish to GCP (ID 119) successful
+
+08-11-2020, 05:45:17
+Publishing to GCP (ID 120) : 
+{"temp": 25.9, "rh": 62, "lux": 229, "co2": 370, "spl": 32.46, "date": "2020-11-08", "time": "05:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 05:45:17
+Publish to GCP (ID 120) successful
+
+08-11-2020, 05:55:17
+Publishing to GCP (ID 121) : 
+{"temp": 25.88, "rh": 64, "lux": 236, "co2": 409, "spl": 34.51, "date": "2020-11-08", "time": "05:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 05:55:17
+Publish to GCP (ID 121) successful
+
+08-11-2020, 06:05:17
+Publishing to GCP (ID 122) : 
+{"temp": 26.31, "rh": 68, "lux": 256, "co2": 343, "spl": 33.31, "date": "2020-11-08", "time": "06:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 06:05:17
+Publish to GCP (ID 122) successful
+
+08-11-2020, 06:14:45
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 06:14:46
+Trying to connect to GCP
+
+08-11-2020, 06:14:56
+Cannot connect to GCP MQTT
+
+08-11-2020, 06:14:56
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 123
+
+08-11-2020, 06:14:56
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 124
+
+08-11-2020, 06:14:59
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 125
+
+08-11-2020, 06:15:00
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 06:15:00
+Publish to GCP (ID 124) successful
+
+08-11-2020, 06:15:17
+Publishing to GCP (ID 126) : 
+{"temp": 26.71, "rh": 68, "lux": 255, "co2": 409, "spl": 37.94, "date": "2020-11-08", "time": "06:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 06:15:17
+Publish to GCP (ID 126) successful
+
+08-11-2020, 06:25:17
+Publishing to GCP (ID 127) : 
+{"temp": 26.85, "rh": 67, "lux": 244, "co2": 372, "spl": 37.5, "date": "2020-11-08", "time": "06:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 06:25:17
+Publish to GCP (ID 127) successful
+
+08-11-2020, 06:35:17
+Publishing to GCP (ID 128) : 
+{"temp": 26.77, "rh": 73, "lux": 246, "co2": 346, "spl": 32.74, "date": "2020-11-08", "time": "06:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 06:35:17
+Publish to GCP (ID 128) successful
+
+08-11-2020, 06:45:17
+Publishing to GCP (ID 129) : 
+{"temp": 27.36, "rh": 67, "lux": 281, "co2": 462, "spl": 38.2, "date": "2020-11-08", "time": "06:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 06:45:17
+Publish to GCP (ID 129) successful
+
+08-11-2020, 06:55:17
+Publishing to GCP (ID 130) : 
+{"temp": 26.92, "rh": 69, "lux": 268, "co2": 422, "spl": 35.74, "date": "2020-11-08", "time": "06:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 06:55:17
+Publish to GCP (ID 130) successful
+
+08-11-2020, 07:05:17
+Publishing to GCP (ID 131) : 
+{"temp": 27.73, "rh": 71, "lux": 260, "co2": 403, "spl": 39.03, "date": "2020-11-08", "time": "07:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 07:05:17
+Publish to GCP (ID 131) successful
+
+08-11-2020, 07:15:17
+Publishing to GCP (ID 132) : 
+{"temp": 27.73, "rh": 70, "lux": 316, "co2": 424, "spl": 37.22, "date": "2020-11-08", "time": "07:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 07:15:17
+Publish to GCP (ID 132) successful
+
+08-11-2020, 07:24:44
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 07:24:45
+Trying to connect to GCP
+
+08-11-2020, 07:24:55
+Cannot connect to GCP MQTT
+
+08-11-2020, 07:24:55
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 133
+
+08-11-2020, 07:24:55
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 134
+
+08-11-2020, 07:24:58
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 135
+
+08-11-2020, 07:24:59
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 07:24:59
+Publish to GCP (ID 134) successful
+
+08-11-2020, 07:25:17
+Publishing to GCP (ID 136) : 
+{"temp": 27.38, "rh": 73, "lux": 240, "co2": 493, "spl": 38.76, "date": "2020-11-08", "time": "07:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 07:25:17
+Publish to GCP (ID 136) successful
+
+08-11-2020, 07:35:17
+Publishing to GCP (ID 137) : 
+{"temp": 27.92, "rh": 68, "lux": 248, "co2": 490, "spl": 37.36, "date": "2020-11-08", "time": "07:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 07:35:17
+Publish to GCP (ID 137) successful
+
+08-11-2020, 07:45:17
+Publishing to GCP (ID 138) : 
+{"temp": 28.07, "rh": 73, "lux": 268, "co2": 426, "spl": 42.14, "date": "2020-11-08", "time": "07:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 07:45:17
+Publish to GCP (ID 138) successful
+
+08-11-2020, 07:55:17
+Publishing to GCP (ID 139) : 
+{"temp": 28.47, "rh": 74, "lux": 282, "co2": 487, "spl": 38.27, "date": "2020-11-08", "time": "07:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 07:55:17
+Publish to GCP (ID 139) successful
+
+08-11-2020, 08:05:17
+Publishing to GCP (ID 140) : 
+{"temp": 28.22, "rh": 72, "lux": 283, "co2": 397, "spl": 37.8, "date": "2020-11-08", "time": "08:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 08:05:18
+Publish to GCP (ID 140) successful
+
+08-11-2020, 08:15:17
+Publishing to GCP (ID 141) : 
+{"temp": 28.89, "rh": 74, "lux": 304, "co2": 466, "spl": 37.67, "date": "2020-11-08", "time": "08:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 08:15:17
+Publish to GCP (ID 141) successful
+
+08-11-2020, 08:25:17
+Publishing to GCP (ID 142) : 
+{"temp": 28.57, "rh": 73, "lux": 273, "co2": 395, "spl": 42.52, "date": "2020-11-08", "time": "08:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 08:25:18
+Publish to GCP (ID 142) successful
+
+08-11-2020, 08:34:43
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 08:34:44
+Trying to connect to GCP
+
+08-11-2020, 08:34:54
+Cannot connect to GCP MQTT
+
+08-11-2020, 08:34:54
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 143
+
+08-11-2020, 08:34:54
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 144
+
+08-11-2020, 08:34:57
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 145
+
+08-11-2020, 08:34:58
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 08:34:58
+Publish to GCP (ID 144) successful
+
+08-11-2020, 08:35:17
+Publishing to GCP (ID 146) : 
+{"temp": 28.65, "rh": 74, "lux": 284, "co2": 481, "spl": 42.63, "date": "2020-11-08", "time": "08:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 08:35:18
+Publish to GCP (ID 146) successful
+
+08-11-2020, 08:45:17
+Publishing to GCP (ID 147) : 
+{"temp": 29.05, "rh": 74, "lux": 287, "co2": 398, "spl": 41.21, "date": "2020-11-08", "time": "08:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 08:45:18
+Publish to GCP (ID 147) successful
+
+08-11-2020, 08:55:17
+Publishing to GCP (ID 148) : 
+{"temp": 28.88, "rh": 74, "lux": 269, "co2": 451, "spl": 39.86, "date": "2020-11-08", "time": "08:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 08:55:18
+Publish to GCP (ID 148) successful
+
+08-11-2020, 09:05:17
+Publishing to GCP (ID 149) : 
+{"temp": 28.81, "rh": 76, "lux": 311, "co2": 507, "spl": 41.27, "date": "2020-11-08", "time": "09:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 09:05:18
+Publish to GCP (ID 149) successful
+
+08-11-2020, 09:15:17
+Publishing to GCP (ID 150) : 
+{"temp": 28.93, "rh": 76, "lux": 286, "co2": 454, "spl": 40.12, "date": "2020-11-08", "time": "09:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 09:15:18
+Publish to GCP (ID 150) successful
+
+08-11-2020, 09:25:17
+Publishing to GCP (ID 151) : 
+{"temp": 29.51, "rh": 78, "lux": 291, "co2": 464, "spl": 44.21, "date": "2020-11-08", "time": "09:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 09:25:18
+Publish to GCP (ID 151) successful
+
+08-11-2020, 09:35:17
+Publishing to GCP (ID 152) : 
+{"temp": 29.64, "rh": 79, "lux": 310, "co2": 481, "spl": 45.01, "date": "2020-11-08", "time": "09:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 09:35:18
+Publish to GCP (ID 152) successful
+
+08-11-2020, 09:44:42
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 09:44:43
+Trying to connect to GCP
+
+08-11-2020, 09:44:53
+Cannot connect to GCP MQTT
+
+08-11-2020, 09:44:53
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 153
+
+08-11-2020, 09:44:53
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 154
+
+08-11-2020, 09:44:56
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 155
+
+08-11-2020, 09:44:57
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 09:44:57
+Publish to GCP (ID 154) successful
+
+08-11-2020, 09:45:17
+Publishing to GCP (ID 156) : 
+{"temp": 29.53, "rh": 77, "lux": 310, "co2": 461, "spl": 47.06, "date": "2020-11-08", "time": "09:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 09:45:18
+Publish to GCP (ID 156) successful
+
+08-11-2020, 09:55:17
+Publishing to GCP (ID 157) : 
+{"temp": 29.16, "rh": 79, "lux": 318, "co2": 476, "spl": 43.15, "date": "2020-11-08", "time": "09:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 09:55:18
+Publish to GCP (ID 157) successful
+
+08-11-2020, 10:05:17
+Publishing to GCP (ID 158) : 
+{"temp": 29.56, "rh": 80, "lux": 305, "co2": 500, "spl": 42.56, "date": "2020-11-08", "time": "10:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 10:05:18
+Publish to GCP (ID 158) successful
+
+08-11-2020, 10:15:17
+Publishing to GCP (ID 159) : 
+{"temp": 29.86, "rh": 81, "lux": 318, "co2": 530, "spl": 44.27, "date": "2020-11-08", "time": "10:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 10:15:18
+Publish to GCP (ID 159) successful
+
+08-11-2020, 10:25:17
+Publishing to GCP (ID 160) : 
+{"temp": 29.58, "rh": 80, "lux": 301, "co2": 446, "spl": 43.12, "date": "2020-11-08", "time": "10:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 10:25:18
+Publish to GCP (ID 160) successful
+
+08-11-2020, 10:35:17
+Publishing to GCP (ID 161) : 
+{"temp": 29.7, "rh": 76, "lux": 282, "co2": 489, "spl": 46.73, "date": "2020-11-08", "time": "10:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 10:35:18
+Publish to GCP (ID 161) successful
+
+08-11-2020, 10:45:17
+Publishing to GCP (ID 162) : 
+{"temp": 29.45, "rh": 80, "lux": 287, "co2": 497, "spl": 45.38, "date": "2020-11-08", "time": "10:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 10:45:18
+Publish to GCP (ID 162) successful
+
+08-11-2020, 10:54:41
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 10:54:42
+Trying to connect to GCP
+
+08-11-2020, 10:54:52
+Cannot connect to GCP MQTT
+
+08-11-2020, 10:54:52
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 163
+
+08-11-2020, 10:54:52
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 164
+
+08-11-2020, 10:54:55
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 165
+
+08-11-2020, 10:54:56
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 10:54:56
+Publish to GCP (ID 164) successful
+
+08-11-2020, 10:55:17
+Publishing to GCP (ID 166) : 
+{"temp": 29.85, "rh": 82, "lux": 302, "co2": 515, "spl": 41.14, "date": "2020-11-08", "time": "10:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 10:55:18
+Publish to GCP (ID 166) successful
+
+08-11-2020, 11:05:17
+Publishing to GCP (ID 167) : 
+{"temp": 29.86, "rh": 80, "lux": 288, "co2": 490, "spl": 45.48, "date": "2020-11-08", "time": "11:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 11:05:18
+Publish to GCP (ID 167) successful
+
+08-11-2020, 11:15:17
+Publishing to GCP (ID 168) : 
+{"temp": 29.52, "rh": 80, "lux": 297, "co2": 513, "spl": 44.18, "date": "2020-11-08", "time": "11:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 11:15:18
+Publish to GCP (ID 168) successful
+
+08-11-2020, 11:25:17
+Publishing to GCP (ID 169) : 
+{"temp": 29.65, "rh": 81, "lux": 304, "co2": 476, "spl": 46.12, "date": "2020-11-08", "time": "11:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 11:25:18
+Publish to GCP (ID 169) successful
+
+08-11-2020, 11:35:17
+Publishing to GCP (ID 170) : 
+{"temp": 30.1, "rh": 78, "lux": 296, "co2": 488, "spl": 46.48, "date": "2020-11-08", "time": "11:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 11:35:18
+Publish to GCP (ID 170) successful
+
+08-11-2020, 11:45:17
+Publishing to GCP (ID 171) : 
+{"temp": 30.13, "rh": 80, "lux": 302, "co2": 561, "spl": 43.94, "date": "2020-11-08", "time": "11:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 11:45:18
+Publish to GCP (ID 171) successful
+
+08-11-2020, 11:55:17
+Publishing to GCP (ID 172) : 
+{"temp": 29.81, "rh": 77, "lux": 292, "co2": 492, "spl": 45.43, "date": "2020-11-08", "time": "11:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 11:55:18
+Publish to GCP (ID 172) successful
+
+08-11-2020, 12:04:40
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 12:04:41
+Trying to connect to GCP
+
+08-11-2020, 12:04:51
+Cannot connect to GCP MQTT
+
+08-11-2020, 12:04:51
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 173
+
+08-11-2020, 12:04:51
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 174
+
+08-11-2020, 12:04:54
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 175
+
+08-11-2020, 12:04:55
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 12:04:55
+Publish to GCP (ID 174) successful
+
+08-11-2020, 12:05:17
+Publishing to GCP (ID 176) : 
+{"temp": 29.85, "rh": 81, "lux": 325, "co2": 450, "spl": 44.81, "date": "2020-11-08", "time": "12:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 12:05:18
+Publish to GCP (ID 176) successful
+
+08-11-2020, 12:15:17
+Publishing to GCP (ID 177) : 
+{"temp": 30.15, "rh": 80, "lux": 299, "co2": 529, "spl": 45.21, "date": "2020-11-08", "time": "12:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 12:15:18
+Publish to GCP (ID 177) successful
+
+08-11-2020, 12:25:17
+Publishing to GCP (ID 178) : 
+{"temp": 30.16, "rh": 79, "lux": 283, "co2": 519, "spl": 44.81, "date": "2020-11-08", "time": "12:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 12:25:18
+Publish to GCP (ID 178) successful
+
+08-11-2020, 12:35:17
+Publishing to GCP (ID 179) : 
+{"temp": 29.86, "rh": 81, "lux": 311, "co2": 490, "spl": 42.34, "date": "2020-11-08", "time": "12:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 12:35:18
+Publish to GCP (ID 179) successful
+
+08-11-2020, 12:45:17
+Publishing to GCP (ID 180) : 
+{"temp": 29.58, "rh": 82, "lux": 290, "co2": 493, "spl": 44.32, "date": "2020-11-08", "time": "12:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 12:45:18
+Publish to GCP (ID 180) successful
+
+08-11-2020, 12:55:17
+Publishing to GCP (ID 181) : 
+{"temp": 30.05, "rh": 79, "lux": 292, "co2": 534, "spl": 46.55, "date": "2020-11-08", "time": "12:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 12:55:18
+Publish to GCP (ID 181) successful
+
+08-11-2020, 13:05:17
+Publishing to GCP (ID 182) : 
+{"temp": 29.78, "rh": 80, "lux": 287, "co2": 494, "spl": 45.91, "date": "2020-11-08", "time": "13:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 13:05:18
+Publish to GCP (ID 182) successful
+
+08-11-2020, 13:14:39
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 13:14:40
+Trying to connect to GCP
+
+08-11-2020, 13:14:50
+Cannot connect to GCP MQTT
+
+08-11-2020, 13:14:50
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 183
+
+08-11-2020, 13:14:50
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 184
+
+08-11-2020, 13:14:53
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 185
+
+08-11-2020, 13:14:54
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 13:14:54
+Publish to GCP (ID 184) successful
+
+08-11-2020, 13:15:17
+Publishing to GCP (ID 186) : 
+{"temp": 29.79, "rh": 79, "lux": 273, "co2": 543, "spl": 48.76, "date": "2020-11-08", "time": "13:15:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 13:15:18
+Publish to GCP (ID 186) successful
+
+08-11-2020, 13:25:17
+Publishing to GCP (ID 187) : 
+{"temp": 29.85, "rh": 76, "lux": 273, "co2": 469, "spl": 44.62, "date": "2020-11-08", "time": "13:25:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 13:25:18
+Publish to GCP (ID 187) successful
+
+08-11-2020, 13:35:17
+Publishing to GCP (ID 188) : 
+{"temp": 29.69, "rh": 77, "lux": 297, "co2": 495, "spl": 44.82, "date": "2020-11-08", "time": "13:35:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 13:35:18
+Publish to GCP (ID 188) successful
+
+08-11-2020, 13:45:17
+Publishing to GCP (ID 189) : 
+{"temp": 29.81, "rh": 78, "lux": 301, "co2": 395, "spl": 41.6, "date": "2020-11-08", "time": "13:45:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 13:45:18
+Publish to GCP (ID 189) successful
+
+08-11-2020, 13:55:17
+Publishing to GCP (ID 190) : 
+{"temp": 29.41, "rh": 81, "lux": 281, "co2": 515, "spl": 42.23, "date": "2020-11-08", "time": "13:55:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 13:55:18
+Publish to GCP (ID 190) successful
+
+08-11-2020, 14:05:17
+Publishing to GCP (ID 191) : 
+{"temp": 29.4, "rh": 80, "lux": 277, "co2": 537, "spl": 46.48, "date": "2020-11-08", "time": "14:05:17", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 14:05:18
+Publish to GCP (ID 191) successful
+
+08-11-2020, 14:15:18
+Publishing to GCP (ID 192) : 
+{"temp": 29.72, "rh": 76, "lux": 298, "co2": 449, "spl": 41.77, "date": "2020-11-08", "time": "14:15:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 14:15:18
+Publish to GCP (ID 192) successful
+
+08-11-2020, 14:24:38
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 14:24:39
+Trying to connect to GCP
+
+08-11-2020, 14:24:49
+Cannot connect to GCP MQTT
+
+08-11-2020, 14:24:49
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 193
+
+08-11-2020, 14:24:49
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 194
+
+08-11-2020, 14:24:52
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 195
+
+08-11-2020, 14:24:53
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 14:24:53
+Publish to GCP (ID 194) successful
+
+08-11-2020, 14:25:18
+Publishing to GCP (ID 196) : 
+{"temp": 29.17, "rh": 78, "lux": 304, "co2": 502, "spl": 44.76, "date": "2020-11-08", "time": "14:25:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 14:25:18
+Publish to GCP (ID 196) successful
+
+08-11-2020, 14:35:18
+Publishing to GCP (ID 197) : 
+{"temp": 29.1, "rh": 75, "lux": 307, "co2": 469, "spl": 46.52, "date": "2020-11-08", "time": "14:35:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 14:35:18
+Publish to GCP (ID 197) successful
+
+08-11-2020, 14:45:18
+Publishing to GCP (ID 198) : 
+{"temp": 29.15, "rh": 74, "lux": 303, "co2": 536, "spl": 41.09, "date": "2020-11-08", "time": "14:45:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 14:45:18
+Publish to GCP (ID 198) successful
+
+08-11-2020, 14:55:18
+Publishing to GCP (ID 199) : 
+{"temp": 29.28, "rh": 77, "lux": 274, "co2": 446, "spl": 42.08, "date": "2020-11-08", "time": "14:55:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 14:55:18
+Publish to GCP (ID 199) successful
+
+08-11-2020, 15:05:18
+Publishing to GCP (ID 200) : 
+{"temp": 29.12, "rh": 76, "lux": 266, "co2": 464, "spl": 40.84, "date": "2020-11-08", "time": "15:05:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 15:05:18
+Publish to GCP (ID 200) successful
+
+08-11-2020, 15:15:18
+Publishing to GCP (ID 201) : 
+{"temp": 28.9, "rh": 78, "lux": 254, "co2": 426, "spl": 41.56, "date": "2020-11-08", "time": "15:15:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 15:15:18
+Publish to GCP (ID 201) successful
+
+08-11-2020, 15:25:18
+Publishing to GCP (ID 202) : 
+{"temp": 28.77, "rh": 77, "lux": 282, "co2": 450, "spl": 39.87, "date": "2020-11-08", "time": "15:25:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 15:25:18
+Publish to GCP (ID 202) successful
+
+08-11-2020, 15:34:37
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 15:34:38
+Trying to connect to GCP
+
+08-11-2020, 15:34:48
+Cannot connect to GCP MQTT
+
+08-11-2020, 15:34:48
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 203
+
+08-11-2020, 15:34:48
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 204
+
+08-11-2020, 15:34:51
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 205
+
+08-11-2020, 15:34:52
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 15:34:52
+Publish to GCP (ID 204) successful
+
+08-11-2020, 15:35:18
+Publishing to GCP (ID 206) : 
+{"temp": 28.5, "rh": 73, "lux": 275, "co2": 497, "spl": 39.2, "date": "2020-11-08", "time": "15:35:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 15:35:18
+Publish to GCP (ID 206) successful
+
+08-11-2020, 15:45:18
+Publishing to GCP (ID 207) : 
+{"temp": 28.4, "rh": 76, "lux": 313, "co2": 457, "spl": 38.06, "date": "2020-11-08", "time": "15:45:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 15:45:18
+Publish to GCP (ID 207) successful
+
+08-11-2020, 15:55:18
+Publishing to GCP (ID 208) : 
+{"temp": 28.52, "rh": 73, "lux": 262, "co2": 563, "spl": 37.9, "date": "2020-11-08", "time": "15:55:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 15:55:18
+Publish to GCP (ID 208) successful
+
+08-11-2020, 16:05:18
+Publishing to GCP (ID 209) : 
+{"temp": 28.04, "rh": 70, "lux": 282, "co2": 417, "spl": 42.32, "date": "2020-11-08", "time": "16:05:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 16:05:18
+Publish to GCP (ID 209) successful
+
+08-11-2020, 16:15:18
+Publishing to GCP (ID 210) : 
+{"temp": 28.25, "rh": 70, "lux": 259, "co2": 364, "spl": 40.03, "date": "2020-11-08", "time": "16:15:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 16:15:18
+Publish to GCP (ID 210) successful
+
+08-11-2020, 16:25:18
+Publishing to GCP (ID 211) : 
+{"temp": 28.0, "rh": 72, "lux": 261, "co2": 464, "spl": 36.45, "date": "2020-11-08", "time": "16:25:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 16:25:18
+Publish to GCP (ID 211) successful
+
+08-11-2020, 16:35:18
+Publishing to GCP (ID 212) : 
+{"temp": 27.79, "rh": 71, "lux": 260, "co2": 394, "spl": 37.35, "date": "2020-11-08", "time": "16:35:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 16:35:18
+Publish to GCP (ID 212) successful
+
+08-11-2020, 16:44:36
+Disconnected from GCP MQTT: 
+1: Out of memory.
+
+08-11-2020, 16:44:37
+Trying to connect to GCP
+
+08-11-2020, 16:44:47
+Cannot connect to GCP MQTT
+
+08-11-2020, 16:44:47
+GCP subscription request sent for topic /devices/tugas_scada_tim7_gwy001/config ID 213
+
+08-11-2020, 16:44:47
+Sending GCP attachment request for tugas_scada_tim7_DEV001 with message ID 214
+
+08-11-2020, 16:44:50
+GCP subscription request sent for topic /devices/tugas_scada_tim7_DEV001/config ID 215
+
+08-11-2020, 16:44:51
+Connected to GCP MQTT: 
+0: No error.
+
+08-11-2020, 16:44:51
+Publish to GCP (ID 214) successful
+
+08-11-2020, 16:45:18
+Publishing to GCP (ID 216) : 
+{"temp": 27.92, "rh": 69, "lux": 276, "co2": 494, "spl": 37.43, "date": "2020-11-08", "time": "16:45:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 16:45:18
+Publish to GCP (ID 216) successful
+
+08-11-2020, 16:55:18
+Publishing to GCP (ID 217) : 
+{"temp": 27.4, "rh": 65, "lux": 262, "co2": 406, "spl": 36.38, "date": "2020-11-08", "time": "16:55:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 16:55:18
+Publish to GCP (ID 217) successful
+
+08-11-2020, 17:05:18
+Publishing to GCP (ID 218) : 
+{"temp": 27.34, "rh": 69, "lux": 249, "co2": 384, "spl": 38.59, "date": "2020-11-08", "time": "17:05:18", "devID": "DEV001", "gwyID": "GWY001"}
+
+08-11-2020, 17:05:18
+Publish to GCP (ID 218) successful
+
+08-11-2020, 17:14:16
+Stopping GCP client
+
+08-11-2020, 17:14:16
+Disconnected from GCP MQTT: 
+0: No error.
+
+08-11-2020, 17:14:16
+Stopping Local MQTT client
+
+08-11-2020, 17:14:16
+Disconnected from Local MQTT: 
+0: No error.
+
